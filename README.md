@@ -1,2 +1,2 @@
 # Pagina-Instagram
- Recriando a Página de cadastro de 
+ Recriando a Página de cadastro do Instragram .
